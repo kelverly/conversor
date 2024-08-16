@@ -49,7 +49,7 @@ main section {
 main section span {
     display: block;
     margin-right: 1rem;
-    color: var(--secondary-light);
+    color: #FFF;
     font-size: 5rem;
 }
 
